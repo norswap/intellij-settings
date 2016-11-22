@@ -1,0 +1,37 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="NOTES" type="PLAIN_TEXT" />
+      <mapping pattern="SCRAP" type="PLAIN_TEXT" />
+      <mapping ext="autumn" type="PLAIN_TEXT" />
+      <mapping ext="mouse" type="PLAIN_TEXT" />
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="jspx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="7" />
+  </component>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="MutableIterators" type="PLAIN_TEXT" />
+      <mapping pattern="NOTES" type="PLAIN_TEXT" />
+      <mapping pattern="assoc" type="PLAIN_TEXT" />
+      <mapping pattern="_TODO" type="PLAIN_TEXT" />
+      <mapping pattern="ArrayIterator" type="PLAIN_TEXT" />
+      <mapping pattern="EXPR" type="PLAIN_TEXT" />
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
+      <mapping pattern="save-Tokens" type="PLAIN_TEXT" />
+      <mapping pattern="GRAMTEST" type="PLAIN_TEXT" />
+      <mapping pattern="bin" type="PLAIN_TEXT" />
+      <mapping pattern="_NOTES" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="runParser" type="PLAIN_TEXT" />
+      <mapping pattern="STATE" type="PLAIN_TEXT" />
+      <mapping pattern="InlineTests" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="SCRAP" type="PLAIN_TEXT" />
+      <mapping ext="ply" type="PLAIN_TEXT" />
+      <mapping ext="autumn" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
