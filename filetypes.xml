@@ -13,24 +13,21 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="MutableIterators" type="PLAIN_TEXT" />
+      <mapping pattern="TYPES" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
-      <mapping pattern="assoc" type="PLAIN_TEXT" />
+      <mapping pattern="_README" type="PLAIN_TEXT" />
+      <mapping pattern="Whenever" type="PLAIN_TEXT" />
+      <mapping pattern="TYPES2" type="PLAIN_TEXT" />
       <mapping pattern="_TODO" type="PLAIN_TEXT" />
-      <mapping pattern="ArrayIterator" type="PLAIN_TEXT" />
-      <mapping pattern="EXPR" type="PLAIN_TEXT" />
-      <mapping pattern="makefile" type="PLAIN_TEXT" />
-      <mapping pattern="save-Tokens" type="PLAIN_TEXT" />
-      <mapping pattern="GRAMTEST" type="PLAIN_TEXT" />
-      <mapping pattern="bin" type="PLAIN_TEXT" />
-      <mapping pattern="_NOTES" type="PLAIN_TEXT" />
+      <mapping pattern="COLLECTIONS" type="PLAIN_TEXT" />
+      <mapping pattern="REALITYSUCKS" type="PLAIN_TEXT" />
+      <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
+      <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="runParser" type="PLAIN_TEXT" />
-      <mapping pattern="STATE" type="PLAIN_TEXT" />
-      <mapping pattern="InlineTests" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="SCRAP" type="PLAIN_TEXT" />
-      <mapping ext="ply" type="PLAIN_TEXT" />
+      <mapping pattern="Bugs" type="PLAIN_TEXT" />
+      <mapping pattern="CUTS" type="PLAIN_TEXT" />
+      <mapping pattern="Grammar" type="PLAIN_TEXT" />
+      <mapping ext="clike" type="PLAIN_TEXT" />
       <mapping ext="autumn" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
