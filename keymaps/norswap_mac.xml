@@ -23,10 +23,10 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="AceJumpAction">
-    <keyboard-shortcut first-keystroke="meta c" second-keystroke="space" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="space" />
   </action>
   <action id="AceJumpLineAction">
-    <keyboard-shortcut first-keystroke="meta c" second-keystroke="shift space" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="shift space" />
   </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
