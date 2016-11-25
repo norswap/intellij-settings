@@ -19,6 +19,9 @@
   <action id="$SelectAll">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="space" />
   </action>
@@ -104,6 +107,9 @@
   </action>
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="control button1" />
@@ -376,6 +382,9 @@
   <action id="Refresh" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift k" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
