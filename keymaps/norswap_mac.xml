@@ -130,7 +130,7 @@
     <mouse-shortcut keystroke="control alt button1" />
   </action>
   <action id="EditorCutLineEnd">
-    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="back_space" />
