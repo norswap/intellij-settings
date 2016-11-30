@@ -345,7 +345,7 @@
   </action>
   <action id="OptimizeImports" />
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="meta x" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="meta h" second-keystroke="p" />
   </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift meta v" />
