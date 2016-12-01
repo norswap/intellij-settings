@@ -112,7 +112,7 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="ctrl button1" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
