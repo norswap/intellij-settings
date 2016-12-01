@@ -452,18 +452,10 @@
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="SwitchCoverage" />
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="meta alt down" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="meta alt left" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="meta alt right" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="meta alt up" />
-  </action>
+  <action id="SwitchDown" />
+  <action id="SwitchLeft" />
+  <action id="SwitchRight" />
+  <action id="SwitchUp" />
   <action id="Switcher" />
   <action id="Synchronize" />
   <action id="ToggleBookmark" />
