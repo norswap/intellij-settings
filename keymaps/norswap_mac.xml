@@ -1,4 +1,4 @@
-<keymap version="1" name="norswap_mac" parent="Mac OS X">
+<keymap version="1" name="norswap_win" parent="Mac OS X">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -235,6 +235,9 @@
   <action id="ExpandToLevel5" />
   <action id="ExpandTreeNode" />
   <action id="ExportToTextFile" />
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="meta h" second-keystroke="t" />
+  </action>
   <action id="ExternalJavaDoc" />
   <action id="ExtractFunctionToScope" />
   <action id="ExtractMethod" />
