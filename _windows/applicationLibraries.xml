@@ -1,5 +1,15 @@
 <application>
   <component name="libraryTable">
+    <library name="KotlinJavaRuntime">
+      <CLASSES>
+        <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime.jar!/" />
+        <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="scala-sdk-2.12.0" type="Scala">
       <properties>
         <option name="languageLevel" value="Scala_2_12" />
