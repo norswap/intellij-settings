@@ -131,14 +131,17 @@
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCodeBlockEnd">
-    <keyboard-shortcut first-keystroke="ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement" />
@@ -166,6 +169,9 @@
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
@@ -174,19 +180,15 @@
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
-  <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
-  </action>
+  <action id="EditorLineEndWithSelection" />
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
-  <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl a" />
-  </action>
+  <action id="EditorLineStartWithSelection" />
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorMatchBrace">
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageBottomWithSelection" />
@@ -194,9 +196,6 @@
   <action id="EditorMoveToPageTopWithSelection" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="EditorNextWordWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
   <action id="EditorPageDownWithSelection" />
   <action id="EditorPageUpWithSelection" />
@@ -366,11 +365,15 @@
   <action id="KotlinShellExecute" />
   <action id="MaintenanceAction" />
   <action id="MaximizeToolWindow" />
-  <action id="MethodDown" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
-  <action id="MethodUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="Move" />
   <action id="MoveElementLeft" />
