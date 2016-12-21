@@ -179,7 +179,7 @@
   <action id="EditorPageUpWithSelection" />
   <action id="EditorPasteFromX11" />
   <action id="EditorPasteSimple">
-    <keyboard-shortcut first-keystroke="shift alt v" />
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt b" />
@@ -189,21 +189,25 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="EditorScrollDown" />
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorTextEnd">
-    <keyboard-shortcut first-keystroke="shift ctrl period" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="EditorTextEndWithSelection" />
   <action id="EditorTextStart">
-    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
   <action id="EditorTextStartWithSelection" />
   <action id="EditorToggleCase" />
   <action id="EditorToggleColumnMode" />
+  <action id="EditorToggleInsertState" />
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
@@ -255,10 +259,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="FindWordAtCaret" />
   <action id="ForceRunToCursor" />
@@ -357,8 +361,7 @@
     <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="p" />
   </action>
   <action id="PasteMultiple">
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
-    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt y" />
   </action>
   <action id="PopupHector" />
   <action id="PrevSplitter">
