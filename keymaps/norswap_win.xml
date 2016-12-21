@@ -205,7 +205,9 @@
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
   <action id="EditorTextStartWithSelection" />
-  <action id="EditorToggleCase" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="EditorToggleColumnMode" />
   <action id="EditorToggleInsertState" />
   <action id="EditorToggleStickySelection">
