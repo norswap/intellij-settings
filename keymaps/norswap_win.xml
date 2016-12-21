@@ -46,7 +46,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
-  <action id="CallHierarchy" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="ChangeSignature" />
   <action id="ChangeTypeSignature" />
   <action id="ChangesView.AddUnversioned" />
@@ -94,7 +96,9 @@
   <action id="DomElementsTreeView.AddElement" />
   <action id="DumpLookupElementWeights" />
   <action id="EditBreakpoint" />
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
   <action id="EditSourceInNewWindow" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="alt w" />
@@ -263,7 +267,9 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
-  <action id="FileStructurePopup" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="m" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
@@ -300,26 +306,34 @@
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="GotoChangedFile" />
-  <action id="GotoClass" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="c" />
+  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
-  <action id="GotoFile" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f" />
+  </action>
   <action id="GotoImplementation" />
   <action id="GotoLine" />
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
-  <action id="GotoSymbol" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />
+  </action>
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
-  <action id="HideActiveWindow" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="v" />
+  </action>
   <action id="HideAllWindows" />
   <action id="HighlightUsagesInFile" />
   <action id="HippieBackwardCompletion" />
@@ -346,7 +360,9 @@
   <action id="MaintenanceAction" />
   <action id="MaximizeToolWindow" />
   <action id="MethodDown" />
-  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
   <action id="MethodUp" />
   <action id="MinimizeCurrentWindow" />
   <action id="Move" />
@@ -424,7 +440,7 @@
   <action id="RunToCursor" />
   <action id="SafeDelete" />
   <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
   </action>
   <action id="Scala.CreateLightWorksheetAction" />
   <action id="Scala.CreateScalaDocStub" />
@@ -498,7 +514,9 @@
   <action id="ToggleFullScreen" />
   <action id="ToggleLineBreakpoint" />
   <action id="ToggleTemporaryLineBreakpoint" />
-  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
   <action id="UpperLowerCapitalize.LowerCaseAction" />
