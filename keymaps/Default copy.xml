@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="SwitchApply" />
+  <action id="SwitchDown" />
+  <action id="SwitchLeft" />
+  <action id="SwitchRight" />
+  <action id="SwitchUp" />
+</keymap>
