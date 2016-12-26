@@ -1,0 +1,31 @@
+#!/bin/bash
+
+if [ ! -e .commit ]; then
+    exit 0
+else
+    rm .commit
+fi
+
+git diff HEAD~1 HEAD -- keymaps/norswap_win.xml | grep diff >/dev?null
+WIN_CHANGE=$?
+git diff HEAD~1 HEAD -- keymaps/norswap_mac.xml | grep diff >/dev/null
+MAC_CHANGE=$?
+
+SUM=`expr $WIN_CHANGE + $MAC_CHANGE`
+
+if [ "$SUM" = "0" ]; then
+    git reset --soft head
+    echo "Both Windows anc Mac keymap changed: resolve conflict manually."
+    exit 1
+elif [ "$SUM" = "2" ]; then
+    exit 0
+elif [ "$WIN_CHANGE" = "0" ]; then
+    ./kbd_win_to_mac.sh
+    git add keymaps/norswap_mac.xml
+    git commit --amend --no-edit --no-verify
+elif [ "$MAC_CHANGE" = "0" ]; then
+    ./kbd_mac_to_win.sh
+    git add keymaps/norswap_win.xml
+    git commit --amend --no-edit --no-verify
+fi
+
