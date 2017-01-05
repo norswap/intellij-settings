@@ -1,0 +1,23 @@
+<templateSet group="surround">
+  <template name="S" value="[$SELECTION$]" description="Surround with []" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="L" value="[$SELECTION$]()" description="Create Markdown link" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="SSP" value="false" />
+      <option name="SCALA" value="false" />
+      <option name="ANTLR" value="false" />
+      <option name="SBT" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="HTML" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="XML" value="false" />
+      <option name="KOTLIN" value="false" />
+    </context>
+  </template>
+</templateSet>
