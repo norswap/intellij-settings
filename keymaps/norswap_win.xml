@@ -22,12 +22,19 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="space" />
+  </action>
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="space" />
   </action>
   <action id="AceJumpLineAction">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="shift space" />
   </action>
+  <action id="AceLineAction">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="shift space" />
+  </action>
+  <action id="AceTargetAction" />
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateHierarchyToolWindow">
@@ -125,7 +132,7 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="ctrl button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
@@ -147,7 +154,7 @@
   <action id="EditorCompleteStatement" />
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection">
-    <mouse-shortcut keystroke="control alt button1" />
+    <mouse-shortcut keystroke="ctrl alt button1" />
   </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -493,20 +500,20 @@
   <action id="Stop" />
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchCoverage" />
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="tab" />
