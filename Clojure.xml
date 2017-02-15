@@ -2,5 +2,6 @@
   <component name="ClojureIdeSettings">
     <option name="coloredParentheses" value="true" />
     <option name="highlightUnresolved" value="false" />
+    <option name="structuralStyle" value="0" />
   </component>
 </application>
