@@ -243,7 +243,7 @@
   </action>
   <action id="EditorTextStartWithSelection" />
   <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="EditorToggleColumnMode" />
   <action id="EditorToggleInsertState" />
