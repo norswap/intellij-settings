@@ -22,6 +22,12 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="meta u" second-keystroke="meta alt r" />
+  </action>
+  <action id=":cursive.repl.actions/sync-files">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="meta c" second-keystroke="space" />
   </action>
@@ -222,7 +228,9 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorScrollUp" />
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
@@ -242,7 +250,9 @@
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
-  <action id="EditorUnSelectWord" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="meta p" />
@@ -289,7 +299,7 @@
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta s" />
