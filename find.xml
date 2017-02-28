@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Module 'algalon'" />
     <option name="defaultScopeName" value="Module 'algalon'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'algalon'" />
   </component>
 </application>
