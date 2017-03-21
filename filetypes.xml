@@ -15,20 +15,21 @@
     <extensionMap>
       <mapping pattern="TYPES" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
-      <mapping pattern="_README" type="PLAIN_TEXT" />
+      <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="_TODOLATER" type="PLAIN_TEXT" />
+      <mapping pattern="Grammar" type="PLAIN_TEXT" />
       <mapping pattern="_LONGTERM" type="PLAIN_TEXT" />
       <mapping pattern="Whenever" type="PLAIN_TEXT" />
       <mapping pattern="TYPES2" type="PLAIN_TEXT" />
       <mapping pattern="_TODO" type="PLAIN_TEXT" />
       <mapping pattern="COLLECTIONS" type="PLAIN_TEXT" />
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping pattern="REALITYSUCKS" type="PLAIN_TEXT" />
       <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
-      <mapping pattern="Grammar" type="PLAIN_TEXT" />
+      <mapping pattern="_README" type="PLAIN_TEXT" />
       <mapping ext="clike" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="autumn" type="PLAIN_TEXT" />
