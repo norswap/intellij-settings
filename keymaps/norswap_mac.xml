@@ -322,9 +322,7 @@
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="FullyExpandTreeNode" />
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="meta n" />
-  </action>
+  <action id="Generate" />
   <action id="GotoAction" />
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
