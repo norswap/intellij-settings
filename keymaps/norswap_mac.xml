@@ -143,9 +143,6 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="meta button1" />
-  </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
