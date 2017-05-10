@@ -26,6 +26,7 @@
       <mapping pattern="_DONE" type="PLAIN_TEXT" />
       <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="_NOTES" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
       <mapping pattern="COLLECTIONS" type="PLAIN_TEXT" />
