@@ -13,14 +13,24 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="TYPES" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
-      <mapping pattern="_README" type="PLAIN_TEXT" />
       <mapping pattern="_TODOLATER" type="PLAIN_TEXT" />
+      <mapping pattern="Grammar" type="PLAIN_TEXT" />
       <mapping pattern="_LONGTERM" type="PLAIN_TEXT" />
       <mapping pattern="Whenever" type="PLAIN_TEXT" />
-      <mapping pattern="TYPES2" type="PLAIN_TEXT" />
       <mapping pattern="_TODO" type="PLAIN_TEXT" />
+      <mapping pattern="TYPES2" type="PLAIN_TEXT" />
       <mapping pattern="REALITYSUCKS" type="PLAIN_TEXT" />
       <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
@@ -28,7 +38,7 @@
       <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
       <mapping pattern="COLLECTIONS" type="PLAIN_TEXT" />
-      <mapping pattern="Grammar" type="PLAIN_TEXT" />
+      <mapping pattern="_README" type="PLAIN_TEXT" />
       <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping ext="clike" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
