@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="core.utils.MString.push(string)" />
+        <added pattern="core.utils.MString.push(strings)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
