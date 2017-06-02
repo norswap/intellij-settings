@@ -1,9 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="Groovy" />
       <blacklist language="Java">
         <added pattern="core.utils.MString.push(string)" />
         <added pattern="core.utils.MString.push(strings)" />
+        <added pattern="core.test.Chance.selectp(array)" />
+        <added pattern="core.test.Chance.select(array)" />
       </blacklist>
     </blacklists>
   </component>
