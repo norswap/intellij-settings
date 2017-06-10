@@ -7,6 +7,9 @@
         <added pattern="core.utils.MString.push(strings)" />
         <added pattern="core.test.Chance.selectp(array)" />
         <added pattern="core.test.Chance.select(array)" />
+        <added pattern="core.parser.OperatorInfo.suffix(str,precedence)" />
+        <added pattern="core.parser.OperatorInfo.binary(str,precedence,associativity)" />
+        <added pattern="core.parser.OperatorInfo.prefix(str,precedence)" />
       </blacklist>
     </blacklists>
   </component>
