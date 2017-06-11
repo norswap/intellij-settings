@@ -10,6 +10,7 @@
         <added pattern="core.parser.OperatorInfo.suffix(str,precedence)" />
         <added pattern="core.parser.OperatorInfo.binary(str,precedence,associativity)" />
         <added pattern="core.parser.OperatorInfo.prefix(str,precedence)" />
+        <added pattern="core.parser.OperatorsTest.generate_operator(max_height,min_precedence)" />
       </blacklist>
     </blacklists>
   </component>
