@@ -7,6 +7,7 @@
         <added pattern="core.utils.MString.push(strings)" />
         <added pattern="core.test.Chance.selectp(array)" />
         <added pattern="core.test.Chance.select(array)" />
+        <added pattern="core.lexer.Tokens.IntLiteral.IntLiteral(value)" />
       </blacklist>
     </blacklists>
   </component>
