@@ -16,7 +16,6 @@
       <mapping pattern="SCRAPS" type="PLAIN_TEXT" />
       <mapping pattern="TYPES" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
-      <mapping pattern="_README" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern="_TODOLATER" type="PLAIN_TEXT" />
       <mapping pattern="+TODO" type="PLAIN_TEXT" />
@@ -28,16 +27,16 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="Grammar" type="PLAIN_TEXT" />
       <mapping pattern="SCRATCH" type="PLAIN_TEXT" />
       <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
       <mapping pattern="COLLECTIONS" type="PLAIN_TEXT" />
-      <mapping pattern="Grammar" type="PLAIN_TEXT" />
+      <mapping pattern="_README" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping ext="clike" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="autumn" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
