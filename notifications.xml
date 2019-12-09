@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Cursive Licence" shouldLog="false" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
+    <notification groupId="Framework Detection" shouldLog="false" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
