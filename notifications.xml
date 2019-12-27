@@ -11,6 +11,7 @@
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
     <notification groupId="RuboCop Execution Error" displayType="NONE" />
+    <notification groupId="Ruby Module Manager" displayType="NONE" shouldLog="false" />
     <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
   </component>
