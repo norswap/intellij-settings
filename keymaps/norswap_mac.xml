@@ -443,7 +443,9 @@
   <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction" />
-  <action id="ReformatCode" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="meta r" />
+  </action>
   <action id="Refresh" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="shift k" />
