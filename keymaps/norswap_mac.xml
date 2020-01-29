@@ -88,7 +88,9 @@
   </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll" />
-  <action id="CollapseAllRegions" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="shift meta d" />
+  </action>
   <action id="CollapseBlock" />
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="d" />
@@ -272,7 +274,9 @@
   <action id="EvaluateExpression" />
   <action id="Exit" />
   <action id="ExpandAll" />
-  <action id="ExpandAllRegions" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="shift meta e" />
+  </action>
   <action id="ExpandAllToLevel1" />
   <action id="ExpandAllToLevel2" />
   <action id="ExpandAllToLevel3" />
