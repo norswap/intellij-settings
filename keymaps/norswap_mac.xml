@@ -78,6 +78,7 @@
   <action id="ChangeTypeSignature" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Revert" />
+  <action id="ChangesView.SetDefault" />
   <action id="CheckinProject" />
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
@@ -86,6 +87,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="k" />
   </action>
+  <action id="CodeCompletion" />
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll" />
   <action id="CollapseAllRegions">
@@ -122,8 +124,12 @@
   <action id="Debug" />
   <action id="DebugClass" />
   <action id="Debugger.EditTypeSource" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Add" />
@@ -523,6 +529,7 @@
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages" />
   <action id="SmartStepInto" />
+  <action id="SmartTypeCompletion" />
   <action id="StepInto" />
   <action id="StepOut" />
   <action id="StepOver" />
