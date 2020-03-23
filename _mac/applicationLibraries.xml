@@ -126,12 +126,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
