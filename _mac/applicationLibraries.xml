@@ -121,6 +121,26 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="ffi (v1.12.2, chruby: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/lib" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/lib" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
+      </excluded>
+    </library>
     <library name="fiddle (v1.0.0, chruby: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -187,6 +207,23 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/2.6.0/json/add" />
+      </excluded>
+    </library>
+    <library name="listen (v3.2.1, chruby: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/listen-3.2.1/bin" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/listen-3.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/listen-3.2.1/bin" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/listen-3.2.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/listen-3.2.1/bin" />
       </excluded>
     </library>
     <library name="matrix (v0.1.0, chruby: 2.6.5) [gem]" type="rubylib">
@@ -397,6 +434,43 @@
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rb-fsevent (v0.10.3, chruby: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-fsevent-0.10.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-fsevent-0.10.3/ext" />
+      </excluded>
+    </library>
+    <library name="rb-inotify (v0.10.1, chruby: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-inotify-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-inotify-0.10.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-inotify-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-inotify-0.10.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/rb-inotify-0.10.1/spec" />
       </excluded>
     </library>
     <library name="rdoc (v6.1.2, chruby: 2.6.5) [gem]" type="rubylib">
