@@ -403,6 +403,29 @@
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-0.13.0/bin" />
       </excluded>
     </library>
+    <library name="pry-doc (v1.1.0, chruby: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/libexec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/.circleci" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/libexec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/libexec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/pry-doc-1.1.0/.circleci" />
+      </excluded>
+    </library>
     <library name="psych (v3.1.0, chruby: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -730,6 +753,41 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
+      </excluded>
+    </library>
+    <library name="yard (v0.9.24, chruby: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/po" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/bin" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/lib" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/docs" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/spec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/.github" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/templates" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/po" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/bin" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/lib" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/docs" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/spec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/.github" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/templates" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/po" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/bin" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/docs" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/spec" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/.github" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/templates" />
+        <root url="file://$USER_HOME$/.rubies/2.6.5/lib/ruby/gems/2.6.0/gems/yard-0.9.24/benchmarks" />
       </excluded>
     </library>
   </component>
