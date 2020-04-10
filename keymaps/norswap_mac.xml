@@ -78,7 +78,6 @@
   <action id="ChangeTypeSignature" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Revert" />
-  <action id="ChangesView.SetDefault" />
   <action id="CheckinProject" />
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
@@ -87,19 +86,12 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="k" />
   </action>
-  <action id="CodeCompletion" />
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll" />
-  <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="meta x" second-keystroke="shift meta d" />
-  </action>
+  <action id="CollapseAllRegions" />
   <action id="CollapseBlock" />
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta x" second-keystroke="d" />
-  </action>
-  <action id="CollapseRegionRecursively">
-    <keyboard-shortcut first-keystroke="meta x" second-keystroke="meta d" />
-  </action>
+  <action id="CollapseRegion" />
+  <action id="CollapseRegionRecursively" />
   <action id="CollapseSelection" />
   <action id="CollapseTreeNode" />
   <action id="CommentByBlockComment" />
@@ -124,12 +116,8 @@
   <action id="Debug" />
   <action id="DebugClass" />
   <action id="Debugger.EditTypeSource" />
-  <action id="Diff.ApplyLeftSide" />
-  <action id="Diff.ApplyRightSide" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
-  <action id="Diff.NextChange" />
-  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Add" />
@@ -280,20 +268,14 @@
   <action id="EvaluateExpression" />
   <action id="Exit" />
   <action id="ExpandAll" />
-  <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="meta x" second-keystroke="shift meta e" />
-  </action>
+  <action id="ExpandAllRegions" />
   <action id="ExpandAllToLevel1" />
   <action id="ExpandAllToLevel2" />
   <action id="ExpandAllToLevel3" />
   <action id="ExpandAllToLevel4" />
   <action id="ExpandAllToLevel5" />
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta x" second-keystroke="e" />
-  </action>
-  <action id="ExpandRegionRecursively">
-    <keyboard-shortcut first-keystroke="meta x" second-keystroke="meta e" />
-  </action>
+  <action id="ExpandRegion" />
+  <action id="ExpandRegionRecursively" />
   <action id="ExpandToLevel1" />
   <action id="ExpandToLevel2" />
   <action id="ExpandToLevel3" />
@@ -461,9 +443,7 @@
   <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta x" second-keystroke="meta r" />
-  </action>
+  <action id="ReformatCode" />
   <action id="Refresh" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="shift k" />
@@ -529,7 +509,6 @@
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages" />
   <action id="SmartStepInto" />
-  <action id="SmartTypeCompletion" />
   <action id="StepInto" />
   <action id="StepOut" />
   <action id="StepOver" />
@@ -596,12 +575,6 @@
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
   <action id="ZoomCurrentWindow" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
-  </action>
   <action id="antlr.ExtractRule" />
   <action id="antlr.Generate" />
   <action id="antlr.InlineRule" />
