@@ -1,4 +1,4 @@
-<keymap version="1" name="norswap_win2" parent="Mac OS X">
+<keymap version="1" name="norswap_win" parent="Mac OS X">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -78,6 +78,7 @@
   <action id="ChangeTypeSignature" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Revert" />
+  <action id="ChangesView.SetDefault" />
   <action id="CheckinProject" />
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
@@ -86,12 +87,21 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll" />
-  <action id="CollapseAllRegions" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl alt d" />
+  </action>
   <action id="CollapseBlock" />
-  <action id="CollapseRegion" />
-  <action id="CollapseRegionRecursively" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="d" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl d" />
+  </action>
   <action id="CollapseSelection" />
   <action id="CollapseTreeNode" />
   <action id="CommentByBlockComment" />
@@ -116,8 +126,12 @@
   <action id="Debug" />
   <action id="DebugClass" />
   <action id="Debugger.EditTypeSource" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Add" />
@@ -143,8 +157,8 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
-  <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="control button1" />
+ <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="ctrl button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
@@ -166,7 +180,7 @@
   <action id="EditorCompleteStatement" />
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection">
-    <mouse-shortcut keystroke="control alt button1" />
+    <mouse-shortcut keystroke="ctrl alt button1" />
   </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -271,7 +285,9 @@
   <action id="EvaluateExpression" />
   <action id="Exit" />
   <action id="ExpandAll" />
-  <action id="ExpandAllRegions" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl alt e" />
+  </action>
   <action id="ExpandAllToLevel1" />
   <action id="ExpandAllToLevel2" />
   <action id="ExpandAllToLevel3" />
@@ -280,7 +296,9 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="e" />
   </action>
-  <action id="ExpandRegionRecursively" />
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl e" />
+  </action>
   <action id="ExpandToLevel1" />
   <action id="ExpandToLevel2" />
   <action id="ExpandToLevel3" />
@@ -324,9 +342,7 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="FullyExpandTreeNode" />
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
+  <action id="Generate" />
   <action id="GotoAction" />
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
@@ -490,6 +506,7 @@
   <action id="Scala.RunWorksheet" />
   <action id="Scala.SendSelectionToConsole" />
   <action id="Scala.ShowImplicitParameters" />
+  <action id="Scala.ShowImplicits" />
   <action id="Scala.TypeInfo" />
   <action id="ScalaConsole.Execute" />
   <action id="ScalaFmtFormat" />
@@ -512,6 +529,9 @@
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages" />
   <action id="SmartStepInto" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+  </action>
   <action id="StepInto" />
   <action id="StepOut" />
   <action id="StepOver" />
