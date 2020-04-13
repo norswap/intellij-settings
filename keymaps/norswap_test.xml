@@ -271,7 +271,9 @@
   <action id="EvaluateExpression" />
   <action id="Exit" />
   <action id="ExpandAll" />
-  <action id="ExpandAllRegions" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl alt e" />
+  </action>
   <action id="ExpandAllToLevel1" />
   <action id="ExpandAllToLevel2" />
   <action id="ExpandAllToLevel3" />

@@ -1,4 +1,4 @@
-<keymap version="1" name="norswap_win" parent="Mac OS X">
+<keymap version="1" name="norswap_win2" parent="Mac OS X">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -277,7 +277,9 @@
   <action id="ExpandAllToLevel3" />
   <action id="ExpandAllToLevel4" />
   <action id="ExpandAllToLevel5" />
-  <action id="ExpandRegion" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="e" />
+  </action>
   <action id="ExpandRegionRecursively" />
   <action id="ExpandToLevel1" />
   <action id="ExpandToLevel2" />
