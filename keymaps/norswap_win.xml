@@ -157,8 +157,8 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
- <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="ctrl button1" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
@@ -180,7 +180,7 @@
   <action id="EditorCompleteStatement" />
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelection">
-    <mouse-shortcut keystroke="ctrl alt button1" />
+    <mouse-shortcut keystroke="control alt button1" />
   </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
