@@ -16,7 +16,6 @@
       <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="_TODO" type="PLAIN_TEXT" />
-      <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="_LONGTERM" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="SCRATCH" type="PLAIN_TEXT" />
@@ -36,6 +35,7 @@
       <mapping pattern="REALITYSUCKS" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
       <mapping pattern="+PLAN_PAD" type="PLAIN_TEXT" />
+      <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="COLLECTIONS" type="PLAIN_TEXT" />
       <mapping ext="java2" type="PLAIN_TEXT" />
       <mapping ext="clike" type="PLAIN_TEXT" />
