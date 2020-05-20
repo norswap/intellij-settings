@@ -523,8 +523,12 @@
   <action id="ShowContent" />
   <action id="ShowErrorDescription" />
   <action id="ShowExecutionPoint" />
-  <action id="ShowFilePath" />
-  <action id="ShowNavBar" />
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="p" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="t" />
+  </action>
   <action id="ShowRecentTests" />
   <action id="ShowReformatFileDialog" />
   <action id="ShowSettings">
