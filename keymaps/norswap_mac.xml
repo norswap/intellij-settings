@@ -366,7 +366,9 @@
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="f" />
   </action>
   <action id="GotoImplementation" />
-  <action id="GotoLine" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="l" />
+  </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="GotoRelated" />
