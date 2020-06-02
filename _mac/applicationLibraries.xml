@@ -274,38 +274,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="google-protobuf (v3.12.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.12.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.12.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.12.1/tests" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.12.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.12.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.12.1/tests" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.12.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.12.1/tests" />
-      </excluded>
-    </library>
-    <library name="googleapis-common-protos-types (v1.0.5, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleapis-common-protos-types-1.0.5/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleapis-common-protos-types-1.0.5/lib" />
-      </SOURCES>
-    </library>
     <library name="io-console (v0.4.7, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
