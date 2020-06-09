@@ -653,29 +653,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="rake (v12.3.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/bin" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/doc" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/exe" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/bin" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/doc" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/exe" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/bin" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/doc" />
-        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.2/exe" />
-      </excluded>
-    </library>
     <library name="rake (v12.3.2, chruby: truffleruby-jvm-ce) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -697,6 +674,29 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rake-12.3.2/bin" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rake-12.3.2/doc" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.3, chruby: truffleruby-jvm) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/exe" />
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/bin" />
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/doc" />
+        <root url="file://$USER_HOME$/work/ws/snd/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-12.3.3/exe" />
       </excluded>
     </library>
     <library name="rdoc (v6.1.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
