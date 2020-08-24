@@ -266,6 +266,9 @@
         <option name="FOREGROUND" value="183691" />
       </value>
     </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value />
+    </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="795da3" />
