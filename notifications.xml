@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
     <notification groupId="Checkstyle IDEA Alerts" displayType="NONE" shouldLog="false" />
     <notification groupId="Cursive Licence" shouldLog="false" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
