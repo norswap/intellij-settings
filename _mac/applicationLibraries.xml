@@ -1,22 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="benchmark-ips (v2.8.3, chruby: truffleruby-jvm-ce) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/test" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/test" />
-      </excluded>
-    </library>
     <library name="bigdecimal (v1.4.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -356,29 +339,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="ffi (v1.13.1, chruby: truffleruby-jvm-ce) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/samples" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/samples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/ffi-1.13.1/samples" />
-      </excluded>
-    </library>
     <library name="fiddle (v1.0.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -599,23 +559,6 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-js/jre/languages/ruby/lib/json/lib/json/add" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-js/jre/languages/ruby/lib/json/lib/json/ext" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-js/jre/languages/ruby/lib/json/lib/json/pure" />
-      </excluded>
-    </library>
-    <library name="listen (v3.2.1, chruby: truffleruby-jvm-ce) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/listen-3.2.1/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/listen-3.2.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/listen-3.2.1/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/listen-3.2.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/listen-3.2.1/bin" />
       </excluded>
     </library>
     <library name="matrix (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
@@ -1055,43 +998,6 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-js/jre/languages/ruby/lib/gems/gems/rake-12.3.3/bin" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-js/jre/languages/ruby/lib/gems/gems/rake-12.3.3/doc" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-js/jre/languages/ruby/lib/gems/gems/rake-12.3.3/exe" />
-      </excluded>
-    </library>
-    <library name="rb-fsevent (v0.10.4, chruby: truffleruby-jvm-ce) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-fsevent-0.10.4/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-fsevent-0.10.4/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-fsevent-0.10.4/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-fsevent-0.10.4/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-fsevent-0.10.4/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-fsevent-0.10.4/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-fsevent-0.10.4/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-fsevent-0.10.4/ext" />
-      </excluded>
-    </library>
-    <library name="rb-inotify (v0.10.1, chruby: truffleruby-jvm-ce) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-inotify-0.10.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-inotify-0.10.1/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-inotify-0.10.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-inotify-0.10.1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/rb-inotify-0.10.1/spec" />
       </excluded>
     </library>
     <library name="rdoc (v6.1.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
