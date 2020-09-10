@@ -1,5 +1,22 @@
 <application>
   <component name="libraryTable">
+    <library name="benchmark-ips (v2.8.3, chruby: truffleruby-jvm-ce) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/lib" />
+        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/lib" />
+        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm-ce/jre/languages/ruby/lib/gems/gems/benchmark-ips-2.8.3/test" />
+      </excluded>
+    </library>
     <library name="bigdecimal (v1.4.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
