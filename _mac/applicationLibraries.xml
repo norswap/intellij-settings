@@ -24,53 +24,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="bundler (v1.17.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/ui" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/cli" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/plugin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/source" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/vendor" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/fetcher" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/resolver" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/settings" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/installer" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/ssl_certs" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/templates" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/compact_index_client" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/ui" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/cli" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/plugin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/source" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/vendor" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/fetcher" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/resolver" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/settings" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/installer" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/ssl_certs" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/templates" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/compact_index_client" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/ui" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/cli" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/plugin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/source" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/fetcher" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/resolver" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/settings" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/installer" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/ssl_certs" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/templates" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/bundler/compact_index_client" />
-      </excluded>
-    </library>
     <library name="bundler (v1.17.2, chruby: truffleruby-jvm-ce) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
