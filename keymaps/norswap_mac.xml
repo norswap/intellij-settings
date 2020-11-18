@@ -521,7 +521,9 @@
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
-  <action id="ShowBookmarks" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="meta l" />
+  </action>
   <action id="ShowContent" />
   <action id="ShowErrorDescription" />
   <action id="ShowExecutionPoint" />
@@ -583,7 +585,9 @@
   <action id="ToggleBookmark7" />
   <action id="ToggleBookmark8" />
   <action id="ToggleBookmark9" />
-  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="meta m" />
+  </action>
   <action id="ToggleFullScreen" />
   <action id="ToggleLineBreakpoint" />
   <action id="ToggleTemporaryLineBreakpoint" />
