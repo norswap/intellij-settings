@@ -40,6 +40,7 @@
       <mapping pattern="Grammar" type="PLAIN_TEXT" />
       <mapping pattern="SCRAPS" type="PLAIN_TEXT" />
       <mapping ext="clike" type="PLAIN_TEXT" />
+      <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="autumn" type="PLAIN_TEXT" />
       <mapping ext="java2" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
