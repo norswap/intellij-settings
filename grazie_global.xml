@@ -3,6 +3,7 @@
     <option name="userDisabledRules">
       <set>
         <option value="PASSIVE_VOICE" />
+        <option value="And" />
       </set>
     </option>
   </component>
