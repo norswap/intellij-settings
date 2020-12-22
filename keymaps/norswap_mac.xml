@@ -538,7 +538,9 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
-  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+  </action>
   <action id="ShowUsages" />
   <action id="SmartStepInto" />
   <action id="SmartTypeCompletion">
