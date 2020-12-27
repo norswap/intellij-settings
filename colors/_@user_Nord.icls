@@ -3,7 +3,7 @@
     <property name="created">2020-12-17T16:54:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-18T03:38:39</property>
+    <property name="modified">2020-12-27T17:05:47</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
   <colors>
@@ -28,7 +28,7 @@
     <option name="FILESTATUS_ADDED" value="a3be8c" />
     <option name="FILESTATUS_DELETED" value="bf616a" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="4c566a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4c566a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d08770" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d08770" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d08770" />
@@ -40,6 +40,7 @@
     <option name="FILESTATUS_addedOutside" value="a3be8c" />
     <option name="FILESTATUS_changelistConflict" value="d08770" />
     <option name="FILESTATUS_modifiedOutside" value="ebcb8b" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="323846" />
     <option name="GUTTER_BACKGROUND" value="2e3440" />
     <option name="INDENT_GUIDE" value="4c566a" />
     <option name="INFORMATION_HINT" value="434c5e" />
@@ -49,6 +50,7 @@
     <option name="MODIFIED_LINES_COLOR" value="ebcb8b" />
     <option name="NOTIFICATION_BACKGROUND" value="4c566a" />
     <option name="QUESTION_HINT" value="434c5e" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="323846" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="4c566a" />
     <option name="SELECTED_INDENT_GUIDE" value="616e88" />
@@ -836,7 +838,7 @@
       <value>
         <option name="FOREGROUND" value="88c0d0" />
         <option name="EFFECT_COLOR" value="88c0d0" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
