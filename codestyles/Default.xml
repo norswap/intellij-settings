@@ -9,7 +9,8 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
-  <option name="SOFT_MARGINS" value="120" />
+  <option name="RIGHT_MARGIN" value="100" />
+  <option name="SOFT_MARGINS" value="100" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
