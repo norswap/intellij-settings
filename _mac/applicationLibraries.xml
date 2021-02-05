@@ -1,40 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="addressable (v2.7.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/data" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/tasks" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/data" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/tasks" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/data" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/addressable-2.7.0/tasks" />
-      </excluded>
-    </library>
-    <library name="ast (v2.4.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/ast-2.4.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/ast-2.4.2/lib" />
-      </SOURCES>
-    </library>
     <library name="benchmark (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -165,95 +130,6 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/did_you_mean/spell_checkers" />
       </excluded>
     </library>
-    <library name="diff-lcs (v1.4.4, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/docs" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/autotest" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/docs" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/autotest" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/docs" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/diff-lcs-1.4.4/autotest" />
-      </excluded>
-    </library>
-    <library name="docile (v1.1.5, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/docile-1.1.5/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/docile-1.1.5/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/docile-1.1.5/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/docile-1.1.5/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/docile-1.1.5/spec" />
-      </excluded>
-    </library>
-    <library name="facter (v2.5.7, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/etc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/etc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/etc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/facter-2.5.7/spec" />
-      </excluded>
-    </library>
-    <library name="faraday (v0.17.3, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/faraday-0.17.3/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/faraday-0.17.3/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/faraday-0.17.3/test" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/faraday-0.17.3/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/faraday-0.17.3/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/faraday-0.17.3/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/faraday-0.17.3/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/faraday-0.17.3/test" />
-      </excluded>
-    </library>
     <library name="fiddle (v1.0.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -277,85 +153,6 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="google-protobuf (v3.14.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.14.0/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.14.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.14.0/tests" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.14.0/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.14.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.14.0/tests" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.14.0/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/google-protobuf-3.14.0/tests" />
-      </excluded>
-    </library>
-    <library name="googleapis-common-protos-types (v1.0.6, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleapis-common-protos-types-1.0.6/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleapis-common-protos-types-1.0.6/lib" />
-      </SOURCES>
-    </library>
-    <library name="googleauth (v0.9.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/.github" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/.kokoro" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/.github" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/.kokoro" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/.github" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/googleauth-0.9.0/.kokoro" />
-      </excluded>
-    </library>
-    <library name="grpc (v1.36.0.dev, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/etc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/src" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/include" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/third_party" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/etc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/src" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/include" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/third_party" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/etc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/src" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/include" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/grpc-1.36.0.dev/third_party" />
-      </excluded>
     </library>
     <library name="io-console (v0.5.6, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
@@ -407,55 +204,6 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/json/lib/json/pure" />
       </excluded>
     </library>
-    <library name="json (v2.5.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/json-2.5.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/json-2.5.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/json-2.5.1/tests" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/json-2.5.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/json-2.5.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/json-2.5.1/tests" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/json-2.5.1/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/json-2.5.1/tests" />
-      </excluded>
-    </library>
-    <library name="jwt (v2.2.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/jwt-2.2.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/jwt-2.2.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="little-plugger (v1.1.4, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/little-plugger-1.1.4/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/little-plugger-1.1.4/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/little-plugger-1.1.4/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/little-plugger-1.1.4/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/little-plugger-1.1.4/spec" />
-      </excluded>
-    </library>
     <library name="logger (v1.4.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -464,29 +212,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="logging (v2.3.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/script" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/examples" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/script" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/script" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/logging-2.3.0/examples" />
-      </excluded>
-    </library>
     <library name="matrix (v0.2.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -494,26 +219,6 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="memoist (v0.16.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/memoist-0.16.2/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/memoist-0.16.2/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/memoist-0.16.2/script" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/memoist-0.16.2/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/memoist-0.16.2/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/memoist-0.16.2/script" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/memoist-0.16.2/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/memoist-0.16.2/script" />
-      </excluded>
     </library>
     <library name="minitest (v5.13.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
@@ -530,35 +235,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/minitest-5.13.0/test" />
-      </excluded>
-    </library>
-    <library name="multi_json (v1.15.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/multi_json-1.15.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/multi_json-1.15.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="multipart-post (v2.1.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/multipart-post-2.1.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/multipart-post-2.1.1/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/multipart-post-2.1.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/multipart-post-2.1.1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/multipart-post-2.1.1/spec" />
       </excluded>
     </library>
     <library name="net-pop (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
@@ -618,26 +294,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="os (v1.1.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/os-1.1.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/os-1.1.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/os-1.1.1/autotest" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/os-1.1.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/os-1.1.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/os-1.1.1/autotest" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/os-1.1.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/os-1.1.1/autotest" />
-      </excluded>
-    </library>
     <library name="ostruct (v0.2.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -645,35 +301,6 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="parallel (v1.20.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/parallel-1.20.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/parallel-1.20.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="parser (v2.7.2.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/parser-2.7.2.0/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/parser-2.7.2.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/parser-2.7.2.0/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/parser-2.7.2.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/parser-2.7.2.0/bin" />
-      </excluded>
     </library>
     <library name="power_assert (v1.1.7, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
@@ -690,23 +317,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/power_assert-1.1.7/bin" />
-      </excluded>
-    </library>
-    <library name="powerpack (v0.1.3, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/powerpack-0.1.3/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/powerpack-0.1.3/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/powerpack-0.1.3/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/powerpack-0.1.3/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/powerpack-0.1.3/spec" />
       </excluded>
     </library>
     <library name="pstore (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
@@ -739,32 +349,6 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/psych/nodes" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/psych/handlers" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/psych/visitors" />
-      </excluded>
-    </library>
-    <library name="public_suffix (v4.0.6, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/data" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/.github" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/data" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/.github" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/data" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/public_suffix-4.0.6/.github" />
       </excluded>
     </library>
     <library name="Python 2.7 (/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python) interpreter library">
@@ -847,26 +431,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="rainbow (v2.2.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rainbow-2.2.2/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rainbow-2.2.2/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rainbow-2.2.2/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rainbow-2.2.2/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rainbow-2.2.2/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rainbow-2.2.2/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rainbow-2.2.2/ext" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rainbow-2.2.2/spec" />
-      </excluded>
-    </library>
     <library name="rake (v13.0.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -891,77 +455,6 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.1/doc" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.1/exe" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.1/.github" />
-      </excluded>
-    </library>
-    <library name="rake (v13.0.3, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/doc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/exe" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/doc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/exe" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/doc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-13.0.3/exe" />
-      </excluded>
-    </library>
-    <library name="rake-compiler (v1.1.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/tasks" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/features" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/tasks" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/features" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-1.1.1/tasks" />
-      </excluded>
-    </library>
-    <library name="rake-compiler-dock (v1.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/build" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/build" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rake-compiler-dock-1.1.0/build" />
       </excluded>
     </library>
     <library name="rdoc (v6.2.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
@@ -1048,71 +541,6 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/rexml/validation" />
       </excluded>
     </library>
-    <library name="rspec (v3.10.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-3.10.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-3.10.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-core (v3.10.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-core-3.10.1/exe" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-core-3.10.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-core-3.10.1/exe" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-core-3.10.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-core-3.10.1/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-expectations (v3.10.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-expectations-3.10.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-expectations-3.10.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-mocks (v3.10.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-mocks-3.10.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-mocks-3.10.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-support (v3.10.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-support-3.10.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rspec-support-3.10.2/lib" />
-      </SOURCES>
-    </library>
     <library name="rss (v0.2.8, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1132,109 +560,6 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/rss/maker" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/rss/content" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/mri/rss/dublincore" />
-      </excluded>
-    </library>
-    <library name="rubocop (v0.49.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/assets" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/config" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/assets" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/bin" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/assets" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/rubocop-0.49.1/config" />
-      </excluded>
-    </library>
-    <library name="ruby-progressbar (v1.11.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/ruby-progressbar-1.11.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/ruby-progressbar-1.11.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="signet (v0.14.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/signet-0.14.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/signet-0.14.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/signet-0.14.1/website" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/signet-0.14.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/signet-0.14.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/signet-0.14.1/website" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/signet-0.14.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/signet-0.14.1/website" />
-      </excluded>
-    </library>
-    <library name="simplecov (v0.14.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/doc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/features" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/doc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/spec" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/features" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/doc" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-0.14.1/spec" />
-      </excluded>
-    </library>
-    <library name="simplecov-html (v0.10.2, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/views" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/assets" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/public" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/views" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/assets" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/public" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/test" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/views" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/assets" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/simplecov-html-0.10.2/public" />
       </excluded>
     </library>
     <library name="singleton (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
@@ -1283,23 +608,6 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="unicode-display_width (v1.7.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/unicode-display_width-1.7.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/unicode-display_width-1.7.0/data" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/unicode-display_width-1.7.0/lib" />
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/unicode-display_width-1.7.0/data" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/jre/languages/ruby/lib/gems/gems/unicode-display_width-1.7.0/data" />
-      </excluded>
     </library>
     <library name="uri (v0.10.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
