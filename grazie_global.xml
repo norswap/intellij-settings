@@ -3,9 +3,18 @@
     <option name="userDisabledRules">
       <set>
         <option value="And" />
-        <option value="PASSIVE_VOICE" />
         <option value="COMPRISED_OF" />
+        <option value="PASSIVE_VOICE" />
       </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="Besides the" />
+          </set>
+        </option>
+      </SuppressingContext>
     </option>
   </component>
 </application>
