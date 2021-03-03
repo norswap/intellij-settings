@@ -13,20 +13,19 @@
   </component>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="spawn-helper" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="SCRATCH" type="PLAIN_TEXT" />
       <mapping pattern="TYPES" type="PLAIN_TEXT" />
-      <mapping pattern="+TODO" type="PLAIN_TEXT" />
+      <mapping pattern="SCRATCH" type="PLAIN_TEXT" />
       <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
+      <mapping pattern="+TODO" type="PLAIN_TEXT" />
       <mapping pattern="+PLAN_PAD" type="PLAIN_TEXT" />
       <mapping pattern="_LONGTERM" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="TYPES2" type="PLAIN_TEXT" />
-      <mapping pattern="+LOG" type="PLAIN_TEXT" />
       <mapping pattern="Bugs" type="PLAIN_TEXT" />
+      <mapping pattern="+LOG" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="_TODOLATER" type="PLAIN_TEXT" />
