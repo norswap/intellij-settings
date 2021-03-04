@@ -1,6 +1,7 @@
 <application>
   <component name="DebuggerSettings">
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -277,7 +278,7 @@
       <option name="SHOW_FQ_TYPE_NAMES" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="Strings" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.lang.String" />
@@ -293,12 +294,5 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
-    <debuggers>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
