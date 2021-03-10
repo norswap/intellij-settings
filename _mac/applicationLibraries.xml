@@ -162,7 +162,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="irb (v1.2.6, chruby: truffleruby-jvm) [gem]" type="rubylib">
+    <library name="irb (v1.3.3, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -496,7 +496,7 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/languages/ruby/lib/mri/rdoc/generator" />
       </excluded>
     </library>
-    <library name="reline (v0.1.5, chruby: truffleruby-jvm) [gem]" type="rubylib">
+    <library name="reline (v0.2.3, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
