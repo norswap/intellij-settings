@@ -575,20 +575,17 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/doc" />
         <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/lib" />
         <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/test" />
         <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/sample" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/doc" />
         <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/lib" />
         <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/test" />
         <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/sample" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/doc" />
         <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/test" />
         <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.1.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/sample" />
       </excluded>
