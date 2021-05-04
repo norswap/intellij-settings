@@ -5,6 +5,7 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -17,11 +18,11 @@
     <option name="useMaterialWallpapers" value="true" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="a752db" />
+    <option name="accentColor" value="f9826c" />
     <option name="highlightColor" value="b31ee9" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="-675406ae:17726227902:-8000" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.0.3" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
