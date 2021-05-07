@@ -514,7 +514,7 @@
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/languages/ruby/lib/mri/reline/key_actor" />
       </excluded>
     </library>
-    <library name="rexml (v3.2.3, chruby: truffleruby-jvm) [gem]" type="rubylib">
+    <library name="rexml (v3.2.3.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -617,7 +617,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="webrick (v1.6.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
+    <library name="webrick (v1.6.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
