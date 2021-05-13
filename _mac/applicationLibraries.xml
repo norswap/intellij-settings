@@ -220,6 +220,23 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="minitest (v5.13.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/minitest-5.13.0/lib" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/minitest-5.13.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/minitest-5.13.0/lib" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/minitest-5.13.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/minitest-5.13.0/test" />
+      </excluded>
+    </library>
     <library name="net-pop (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -235,6 +252,23 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="net-telnet (v0.2.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/net-telnet-0.2.0/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/net-telnet-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/net-telnet-0.2.0/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/net-telnet-0.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/net-telnet-0.2.0/bin" />
+      </excluded>
     </library>
     <library name="observer (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
@@ -267,6 +301,23 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="power_assert (v1.1.7, chruby: truffleruby-jvm) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/power_assert-1.1.7/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/power_assert-1.1.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/power_assert-1.1.7/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/power_assert-1.1.7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/power_assert-1.1.7/bin" />
+      </excluded>
     </library>
     <library name="pstore (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
@@ -379,6 +430,32 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="rake (v13.0.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/rake-13.0.1/.github" />
+      </excluded>
     </library>
     <library name="rdoc (v6.2.1, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
@@ -493,6 +570,29 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="test-unit (v3.3.4, chruby: truffleruby-jvm) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/doc" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/lib" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/test" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/doc" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/lib" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/test" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/doc" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/test" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/test-unit-3.3.4/sample" />
+      </excluded>
+    </library>
     <library name="timeout (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -533,6 +633,23 @@
       <excluded>
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/languages/ruby/lib/mri/webrick/httpauth" />
         <root url="file://$USER_HOME$/work/ws/truffleruby/mxbuild/truffleruby-jvm/languages/ruby/lib/mri/webrick/httpservlet" />
+      </excluded>
+    </library>
+    <library name="xmlrpc (v0.3.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/xmlrpc-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/xmlrpc-0.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/work/ws/graal/sdk/mxbuild/darwin-amd64/GRAALVM_077B8863DC_JAVA11/graalvm-077b8863dc-java11-21.2.0-dev/Contents/Home/languages/ruby/lib/gems/gems/xmlrpc-0.3.0/bin" />
       </excluded>
     </library>
     <library name="yaml (v0.1.0, chruby: truffleruby-jvm) [gem]" type="rubylib">
