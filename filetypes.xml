@@ -18,16 +18,16 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="TYPES" type="PLAIN_TEXT" />
       <mapping pattern="SCRATCH" type="PLAIN_TEXT" />
-      <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
+      <mapping pattern="TYPES" type="PLAIN_TEXT" />
       <mapping pattern="+TODO" type="PLAIN_TEXT" />
+      <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
       <mapping pattern="+PLAN_PAD" type="PLAIN_TEXT" />
       <mapping pattern="_LONGTERM" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="TYPES2" type="PLAIN_TEXT" />
-      <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="+LOG" type="PLAIN_TEXT" />
+      <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="_TODOLATER" type="PLAIN_TEXT" />
