@@ -322,6 +322,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="m" />
   </action>
+  <action id="FillParagraph">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>

@@ -13,35 +13,35 @@
   </component>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="buckets-reassign" type="AUTO_DETECTED" />
       <mapping pattern="spawn-helper" type="AUTO_DETECTED" />
+      <mapping pattern="buckets-reassign" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="SCRATCH" type="PLAIN_TEXT" />
-      <mapping pattern="TYPES" type="PLAIN_TEXT" />
-      <mapping pattern="+TODO" type="PLAIN_TEXT" />
-      <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
-      <mapping pattern="+PLAN_PAD" type="PLAIN_TEXT" />
-      <mapping pattern="_LONGTERM" type="PLAIN_TEXT" />
-      <mapping pattern="NOTES" type="PLAIN_TEXT" />
-      <mapping pattern="TYPES2" type="PLAIN_TEXT" />
-      <mapping pattern="+LOG" type="PLAIN_TEXT" />
       <mapping pattern="Bugs" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="_README" type="PLAIN_TEXT" />
+      <mapping pattern="+LOG" type="PLAIN_TEXT" />
+      <mapping pattern="TYPES" type="PLAIN_TEXT" />
+      <mapping pattern="+PLAN_PAD" type="PLAIN_TEXT" />
       <mapping pattern="_TODOLATER" type="PLAIN_TEXT" />
+      <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="TYPES2" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="COLLECTIONS" type="PLAIN_TEXT" />
       <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Test" type="PLAIN_TEXT" />
-      <mapping pattern="Whenever" type="PLAIN_TEXT" />
-      <mapping pattern="CUTS" type="PLAIN_TEXT" />
-      <mapping pattern="_README" type="PLAIN_TEXT" />
-      <mapping pattern="_TODO" type="PLAIN_TEXT" />
-      <mapping pattern="REALITYSUCKS" type="PLAIN_TEXT" />
-      <mapping pattern="Grammar" type="PLAIN_TEXT" />
+      <mapping pattern="_LONGTERM" type="PLAIN_TEXT" />
       <mapping pattern="SCRAPS" type="PLAIN_TEXT" />
+      <mapping pattern="REALITYSUCKS" type="PLAIN_TEXT" />
+      <mapping pattern="SCRATCH" type="PLAIN_TEXT" />
+      <mapping pattern="_TODO" type="PLAIN_TEXT" />
+      <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
+      <mapping pattern="NOTES" type="PLAIN_TEXT" />
+      <mapping pattern="Whenever" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="Grammar" type="PLAIN_TEXT" />
+      <mapping pattern="CUTS" type="PLAIN_TEXT" />
+      <mapping pattern="+TODO" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="clike" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
