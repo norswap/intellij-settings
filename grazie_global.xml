@@ -16,5 +16,14 @@
         </option>
       </SuppressingContext>
     </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="SWEDISH" />
+          </set>
+        </option>
+      </State>
+    </option>
   </component>
 </application>
