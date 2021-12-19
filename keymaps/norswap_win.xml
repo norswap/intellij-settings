@@ -501,6 +501,9 @@
   <action id="ShowErrorDescription" />
   <action id="ShowExecutionPoint" />
   <action id="ShowFilePath" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ShowNavBar" />
   <action id="ShowRecentTests" />
   <action id="ShowReformatFileDialog" />
