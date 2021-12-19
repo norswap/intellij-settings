@@ -1,0 +1,21 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="core.utils.MString.push(string)" />
+        <added pattern="core.utils.MString.push(strings)" />
+        <added pattern="core.test.Chance.selectp(array)" />
+        <added pattern="core.test.Chance.select(array)" />
+        <added pattern="core.lexer.Tokens.IntLiteral.IntLiteral(value)" />
+        <added pattern="core.parser.OperatorGen.generate_operator(max_height,min_precedence)" />
+        <added pattern="core.utils.Vec.peek(index)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+    </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+    </disabledLanguages>
+  </component>
+</application>

@@ -1,0 +1,29 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.And" />
+        <option value="LanguageTool.EN.COMPRISED_OF" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="Besides the" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="SWEDISH" />
+          </set>
+        </option>
+      </State>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="java">
+      <display-name>Specialization.guards (com.oracle.truffle.api.dsl)</display-name>
+      <prefix>import org.truffleruby.language.RubyGuards; class X extends RubyGuards { boolean x =</prefix>
+      <suffix>; }</suffix>
+      <place><![CDATA[psiMethod().withName("guards").withParameters().definedInClass("com.oracle.truffle.api.dsl.Specialization")]]></place>
+    </injection>
+    <injection language="JAVA" injector-id="ruby">
+      <display-name>Java for Ruby</display-name>
+      <place><![CDATA[heredocElement("java")]]></place>
+    </injection>
+  </component>
+</application>
