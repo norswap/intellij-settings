@@ -1,4 +1,4 @@
-<keymap version="1" name="norswap_mac" parent="macOS">
+<keymap version="1" name="norswap_mac" parent="Mac OS X">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
