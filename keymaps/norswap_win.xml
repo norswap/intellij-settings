@@ -179,6 +179,9 @@
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -238,7 +241,6 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="EditorSplitLine" />
-  <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="shift alt period" />
@@ -325,7 +327,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
-  <action id="GotoAction" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
@@ -501,6 +505,9 @@
   <action id="ShowErrorDescription" />
   <action id="ShowExecutionPoint" />
   <action id="ShowFilePath" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ShowNavBar" />
   <action id="ShowRecentTests" />
   <action id="ShowReformatFileDialog" />

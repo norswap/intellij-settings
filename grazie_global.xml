@@ -26,5 +26,12 @@
         </option>
       </State>
     </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInCommitMessagesEnabled" value="false" />
+        <option name="isCheckInCommentsEnabled" value="false" />
+        <option name="isCheckInDocumentationEnabled" value="false" />
+      </CheckingContext>
+    </option>
   </component>
 </application>
