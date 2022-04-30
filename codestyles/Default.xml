@@ -17,6 +17,7 @@
   </AndroidXmlCodeStyleSettings>
   <GoCodeStyleSettings>
     <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="RUN_GO_FMT_ON_REFORMAT" value="false" />
     <option name="LOCAL_PACKAGE_PREFIXES" />
   </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
