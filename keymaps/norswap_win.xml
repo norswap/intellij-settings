@@ -349,7 +349,7 @@
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl f" />
   </action>
   <action id="GotoImplementation" />
   <action id="GotoLine" />
@@ -452,7 +452,9 @@
   <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction" />
-  <action id="ReformatCode" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="f" />
+  </action>
   <action id="Refresh" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift k" />
@@ -545,6 +547,9 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="tab" />
   </action>
   <action id="Synchronize" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmark0" />
   <action id="ToggleBookmark1" />
