@@ -12,11 +12,17 @@
   </option>
   <option name="RIGHT_MARGIN" value="100" />
   <option name="SOFT_MARGINS" value="100" />
+  <option name="DO_NOT_FORMAT">
+    <list>
+      <fileSet type="globPattern" pattern="*.go" />
+    </list>
+  </option>
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
   <GoCodeStyleSettings>
     <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="RUN_GO_FMT_ON_REFORMAT" value="false" />
     <option name="LOCAL_PACKAGE_PREFIXES" />
   </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
