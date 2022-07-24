@@ -1,5 +1,6 @@
 <application>
   <component name="WslNodeInterpreterManager">
     <wsl-interpreter distribution="Ubuntu" path="/home/norswap/.nvm/versions/node/v14.18.1/bin/node" />
+    <wsl-interpreter distribution="Ubuntu" path="/home/norswap/.nvm/versions/node/v16.14.2/bin/node" />
   </component>
 </application>
