@@ -1,0 +1,18 @@
+<templateSet group="Java">
+  <template name="sing" value="public static final $CLASS$ INSTANCE = new $CLASS$();&#10;private $CLASS$() {}" description="Singleton" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="meth" value="$MODIFIERS$ $TYPE$ $NAME$ ($ARGS$)&#10;{&#10;    $CODE$&#10;}" description="Create Method" toReformat="false" toShortenFQNames="true">
+    <variable name="MODIFIERS" expression="complete()" defaultValue="public" alwaysStopAt="true" />
+    <variable name="TYPE" expression="complete()" defaultValue="void" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestVariableName()" defaultValue="name" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,22 @@
+<application>
+  <component name="WebTypesNpmLoader">
+    <package name="@web-types/quasar">
+      <version value="1.1.0-1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.1.0-1.tgz" />
+      <version value="1.0.5-1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.5-1.tgz" />
+      <version value="1.0.0-rc.5.2" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-rc.5.2.tgz" />
+      <version value="1.0.0-rc.1.2" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-rc.1.2.tgz" />
+      <version value="1.0.0-1" url="https://registry.npmjs.org/@web-types/quasar/-/quasar-1.0.0-1.tgz" />
+    </package>
+    <enabled>
+      <package name="bootstrap-vue" />
+      <package name="quasar" />
+      <package name="quasar-framework" />
+      <package name="vue" />
+      <package name="vue-client-only" />
+      <package name="vue-no-ssr" />
+      <package name="vue-router" />
+      <package name="vuetify" />
+      <package name="@nuxt/vue-app" />
+    </enabled>
+  </component>
+</application>
