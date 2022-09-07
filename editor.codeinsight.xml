@@ -1,4 +1,8 @@
 <application>
+  <component name="GoFoldingSettings">
+    <option name="isOneLineReturns" value="false" />
+    <option name="isOneLinePanics" value="false" />
+  </component>
   <component name="KotlinCodeInsightSettings">
     <option name="addUnambiguousImportsOnTheFly" value="true" />
   </component>

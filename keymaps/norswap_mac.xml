@@ -309,6 +309,7 @@
   <action id="ExportToTextFile" />
   <action id="ExpressionTypeInfo">
     <keyboard-shortcut first-keystroke="meta h" second-keystroke="t" />
+    <keyboard-shortcut first-keystroke="alt h" second-keystroke="t" />
   </action>
   <action id="ExternalJavaDoc" />
   <action id="ExtractFunctionToScope" />
@@ -447,6 +448,7 @@
   <action id="OptimizeImports" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta h" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="alt h" second-keystroke="p" />
   </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="alt y" />
