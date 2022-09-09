@@ -469,6 +469,7 @@
   <action id="QuickEvaluateExpression" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="meta h" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="alt h" second-keystroke="f" />
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentChanges" />
