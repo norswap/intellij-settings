@@ -15,6 +15,7 @@
     <disabledLanguages>
       <language id="JAVA" />
       <language id="kotlin" />
+      <language id="go" />
       <language id="Groovy" />
     </disabledLanguages>
   </component>
