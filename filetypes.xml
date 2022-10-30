@@ -40,7 +40,6 @@
       <mapping pattern="OldGrammar" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="Whenever" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="Grammar" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
       <mapping pattern="+TODO" type="PLAIN_TEXT" />
