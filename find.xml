@@ -14,5 +14,6 @@
     <mask>*.java</mask>
     <mask>*.go</mask>
     <mask>*.sol</mask>
+    <mask>.js</mask>
   </component>
 </application>
