@@ -6,6 +6,7 @@
   <component name="CodeVisionSettings">
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
