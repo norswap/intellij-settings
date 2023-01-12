@@ -14,6 +14,7 @@
     </blacklists>
     <disabledLanguages>
       <language id="JAVA" />
+      <language id="JavaScript" />
       <language id="kotlin" />
       <language id="go" />
       <language id="Groovy" />
