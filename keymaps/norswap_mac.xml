@@ -323,9 +323,6 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="m" />
   </action>
-  <action id="FillParagraph">
-    <keyboard-shortcut first-keystroke="alt q" />
-  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
@@ -626,7 +623,8 @@
   <action id="antlr.ExtractRule" />
   <action id="antlr.Generate" />
   <action id="antlr.InlineRule" />
-  <action id="com.andrewbrookins.idea.wrap.WrapAction">
+  <action id="com.andrewbrookins.idea.wrap.WrapAction" />
+  <action id="com.andrewbrookins.idea.wrap.WrapParagraphAction">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="context.clear" />
