@@ -44,6 +44,7 @@
       <mapping pattern="Grammar" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
       <mapping pattern="+TODO" type="PLAIN_TEXT" />
+      <mapping ext="wtns" type="PLAIN_TEXT" />
       <mapping ext="clike" type="PLAIN_TEXT" />
       <mapping ext="r1cs" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
