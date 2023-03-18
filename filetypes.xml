@@ -16,8 +16,8 @@
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping pattern="spawn-helper" type="AUTO_DETECTED" />
       <mapping pattern="buckets-reassign" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="_README" type="PLAIN_TEXT" />
@@ -44,31 +44,31 @@
       <mapping pattern="Grammar" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
       <mapping pattern="+TODO" type="PLAIN_TEXT" />
-      <mapping ext="wtns" type="PLAIN_TEXT" />
-      <mapping ext="clike" type="PLAIN_TEXT" />
-      <mapping ext="r1cs" type="PLAIN_TEXT" />
-      <mapping ext="si" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="autumn" type="PLAIN_TEXT" />
       <mapping ext="java2" type="PLAIN_TEXT" />
+      <mapping ext="si" type="PLAIN_TEXT" />
+      <mapping ext="r1cs" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="wtns" type="PLAIN_TEXT" />
+      <mapping ext="clike" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="fnc" approved="true" type="SQL" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pkb" approved="true" type="SQL" />
+      <removed_mapping ext="pks" approved="true" type="SQL" />
+      <removed_mapping ext="prc" approved="true" type="SQL" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
+      <removed_mapping ext="tpb" approved="true" type="SQL" />
+      <removed_mapping ext="tps" approved="true" type="SQL" />
+      <removed_mapping ext="trg" approved="true" type="SQL" />
+      <removed_mapping ext="vw" approved="true" type="SQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
