@@ -20,6 +20,9 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <GoCodeStyleSettings>
+    <option name="LOCAL_PACKAGE_PREFIXES" />
+  </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
