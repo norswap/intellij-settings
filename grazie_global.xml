@@ -12,6 +12,7 @@
         <option name="suppressed">
           <set>
             <option value="Besides the" />
+            <option value="is prove" />
           </set>
         </option>
       </SuppressingContext>
@@ -20,8 +21,8 @@
       <State>
         <option name="disabled">
           <set>
-            <option value="SWEDISH" />
             <option value="ASTURIAN" />
+            <option value="SWEDISH" />
           </set>
         </option>
       </State>
