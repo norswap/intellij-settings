@@ -407,6 +407,9 @@
   <action id="IntroduceVariable" />
   <action id="JumpToLastChange" />
   <action id="JumpToLastWindow" />
+  <action id="JupyterNotebookCutCellCommandModeAction">
+    <keyboard-shortcut first-keystroke="x" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="MaintenanceAction" />
   <action id="MaximizeToolWindow" />
@@ -580,6 +583,9 @@
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize" />
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="meta x" second-keystroke="alt r" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmark0" />
   <action id="ToggleBookmark1" />
