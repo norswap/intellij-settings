@@ -1,10 +1,10 @@
 <scheme name="GoodGithub" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_ROW_COLOR" value="f5f5f5" />
-    <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="SELECTION_BACKGROUND" value="c8c8fa" />
     <option name="SELECTION_FOREGROUND" value="" />
   </colors>
@@ -14,7 +14,6 @@
         <option name="FOREGROUND" value="795da3" />
       </value>
     </option>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -181,7 +180,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -212,7 +210,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value />
     </option>

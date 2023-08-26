@@ -58,6 +58,7 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="fnc" approved="true" type="SQL" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="pkb" approved="true" type="SQL" />
       <removed_mapping ext="pks" approved="true" type="SQL" />
       <removed_mapping ext="prc" approved="true" type="SQL" />
