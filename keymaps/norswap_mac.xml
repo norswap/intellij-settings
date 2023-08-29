@@ -115,6 +115,7 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
@@ -626,6 +627,7 @@
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
   <action id="ZoomCurrentWindow" />
+  <action id="android.device.sleep" />
   <action id="antlr.ExtractRule" />
   <action id="antlr.Generate" />
   <action id="antlr.InlineRule" />
