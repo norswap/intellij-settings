@@ -368,7 +368,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="f" />
   </action>
-  <action id="GotoImplementation" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta x" second-keystroke="l" />
   </action>
