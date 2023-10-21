@@ -12,8 +12,10 @@
         <option name="suppressed">
           <set>
             <option value="is prove" />
-            <option value="Besides the" />
             <option value="is derive" />
+            <option value="Besides the" />
+            <option value="is loses" />
+            <option value="There are also other" />
           </set>
         </option>
       </SuppressingContext>
