@@ -647,6 +647,7 @@
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="tasks.close" />
   <action id="tasks.goto" />
   <action id="tasks.open.in.browser" />
