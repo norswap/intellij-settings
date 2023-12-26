@@ -11,11 +11,13 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
+            <option value="is loses" />
             <option value="is prove" />
             <option value="is derive" />
-            <option value="Besides the" />
-            <option value="is loses" />
             <option value="There are also other" />
+            <option value="Besides the" />
+            <option value="the deploy" />
+            <option value="for convenience sake" />
           </set>
         </option>
       </SuppressingContext>
