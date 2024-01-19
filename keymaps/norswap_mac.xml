@@ -639,6 +639,9 @@
   </action>
   <action id="context.clear" />
   <action id="context.save" />
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="hg4idea.QFold" />
   <action id="hg4idea.QGotoFromPatches" />
   <action id="hg4idea.QPushAction" />
