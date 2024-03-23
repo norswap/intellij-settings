@@ -21,6 +21,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="_README" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="+LOG" type="PLAIN_TEXT" />
       <mapping pattern="+PLAN_PAD" type="PLAIN_TEXT" />
       <mapping pattern="TYPES" type="PLAIN_TEXT" />
