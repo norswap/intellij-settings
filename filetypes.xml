@@ -21,6 +21,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="_README" type="PLAIN_TEXT" />
+      <mapping pattern=".password.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="+LOG" type="PLAIN_TEXT" />
       <mapping pattern="+PLAN_PAD" type="PLAIN_TEXT" />
@@ -35,6 +36,7 @@
       <mapping pattern="COLLECTIONS" type="PLAIN_TEXT" />
       <mapping pattern="scratch" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".password.main" type="PLAIN_TEXT" />
       <mapping pattern="_LONGTERM" type="PLAIN_TEXT" />
       <mapping pattern="SCRAPS" type="PLAIN_TEXT" />
       <mapping pattern="REALITYSUCKS" type="PLAIN_TEXT" />
