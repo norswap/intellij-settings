@@ -18,6 +18,7 @@
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="true" source="SYSTEM" />
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
+    <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

@@ -3,10 +3,10 @@
     <option name="userDisabledRules">
       <set>
         <option value="LanguageTool.EN.And" />
-        <option value="LanguageTool.EN.COMPRISED_OF" />
-        <option value="LanguageTool.EN.PASSIVE_VOICE" />
         <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
         <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
+        <option value="LanguageTool.EN.COMPRISED_OF" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
     </option>
     <option name="suppressingContext">

@@ -16,9 +16,9 @@
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping pattern="spawn-helper" type="AUTO_DETECTED" />
       <mapping pattern="buckets-reassign" type="AUTO_DETECTED" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Bugs" type="PLAIN_TEXT" />
       <mapping pattern="_README" type="PLAIN_TEXT" />
       <mapping pattern=".password.test" type="PLAIN_TEXT" />
@@ -49,12 +49,12 @@
       <mapping pattern="Grammar" type="PLAIN_TEXT" />
       <mapping pattern="CUTS" type="PLAIN_TEXT" />
       <mapping pattern="+TODO" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="autumn" type="PLAIN_TEXT" />
       <mapping ext="java2" type="PLAIN_TEXT" />
+      <mapping ext="wtns" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="r1cs" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="wtns" type="PLAIN_TEXT" />
       <mapping ext="clike" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
