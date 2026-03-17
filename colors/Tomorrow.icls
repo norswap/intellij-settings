@@ -4,34 +4,34 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="4d4d4c" />
-    <option name="ANNOTATIONS_COLOR" value="0" />
-    <option name="ANNOTATIONS_MERGED_COLOR" value="0" />
-    <option name="CARET_COLOR" value="4d4d4c" />
-    <option name="CARET_ROW_COLOR" value="efefef" />
+    <option name="ADDED_LINES_COLOR" value="4D4D4C" />
+    <option name="ANNOTATIONS_COLOR" value="000000" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="000000" />
+    <option name="CARET_COLOR" value="4D4D4C" />
+    <option name="CARET_ROW_COLOR" value="EFEFEF" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="GUTTER_BACKGROUND" value="ffffff" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="8959a8" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="4271ae" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="3e999f" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="718c00" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="eab700" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="f5871f" />
-    <option name="INDENT_GUIDE" value="d6d6d6" />
-    <option name="LINE_NUMBERS_COLOR" value="4d4d4c" />
+    <option name="GUTTER_BACKGROUND" value="FFFFFF" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="8959A8" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="4271AE" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="3E999F" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="718C00" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="EAB700" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="F5871F" />
+    <option name="INDENT_GUIDE" value="D6D6D6" />
+    <option name="LINE_NUMBERS_COLOR" value="4D4D4C" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
-    <option name="MODIFIED_LINES_COLOR" value="efefef" />
+    <option name="MODIFIED_LINES_COLOR" value="EFEFEF" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="READONLY_BACKGROUND" value="" />
-    <option name="READONLY_FRAGMENT_BACKGROUND" value="ffff00" />
-    <option name="RECURSIVE_CALL_ATTRIBUTES" value="8959a8" />
-    <option name="RIGHT_MARGIN_COLOR" value="d6d6d6" />
-    <option name="SELECTED_INDENT_GUIDE" value="d6d6d6" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="d6d6d6" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="FFFF00" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="8959A8" />
+    <option name="RIGHT_MARGIN_COLOR" value="D6D6D6" />
+    <option name="SELECTED_INDENT_GUIDE" value="D6D6D6" />
+    <option name="SELECTED_TEARLINE_COLOR" value="FFFFFF" />
+    <option name="SELECTION_BACKGROUND" value="D6D6D6" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="d6d6d6" />
-    <option name="WHITESPACES" value="d6d6d6" />
+    <option name="TEARLINE_COLOR" value="D6D6D6" />
+    <option name="WHITESPACES" value="D6D6D6" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">

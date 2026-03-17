@@ -9,5 +9,6 @@
     <option name="MAX_LOOKUP_WIDTH2" value="1060" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>

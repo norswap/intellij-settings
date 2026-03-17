@@ -4,8 +4,8 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="f5f5f5" />
-    <option name="SELECTION_BACKGROUND" value="c8c8fa" />
+    <option name="CARET_ROW_COLOR" value="F5F5F5" />
+    <option name="SELECTION_BACKGROUND" value="C8C8FA" />
     <option name="SELECTION_FOREGROUND" value="" />
   </colors>
   <attributes>
@@ -78,8 +78,8 @@
         <option name="FOREGROUND" value="795da3" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="" />
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="" />
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="795da3" />

@@ -5,20 +5,22 @@
         <option value="LanguageTool.EN.And" />
         <option value="LanguageTool.EN.COMPRISED_OF" />
         <option value="LanguageTool.EN.PASSIVE_VOICE" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
       </set>
     </option>
     <option name="suppressingContext">
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="is loses" />
-            <option value="is prove" />
-            <option value="is derive" />
+            <option value="Besides the" />
             <option value="There are also other" />
             <option value="for convenience sake" />
-            <option value="Besides the" />
-            <option value="the deploy" />
+            <option value="is derive" />
+            <option value="is loses" />
+            <option value="is prove" />
             <option value="of any of" />
+            <option value="the deploy" />
           </set>
         </option>
       </SuppressingContext>
